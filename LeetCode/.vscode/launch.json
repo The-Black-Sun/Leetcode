@@ -55,8 +55,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "e:/LeetCode",
-      "program": "e:/LeetCode/build/Debug/outDebug",
+      "cwd": "e:/Leetcode/LeetCode",
+      "program": "e:/Leetcode/LeetCode/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
